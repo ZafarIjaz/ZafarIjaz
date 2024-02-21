@@ -11,7 +11,7 @@ I'm a graduate in Computer Science :mortar_board: from Comsats Univerity Lahore,
 
 <!-- Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories. -->
 
-<img align="right" height="250" width="375" alt="" src="https://camo.githubusercontent.com/e37ba631e0cde2bcb7c0c4cb4ddcbf9ebc464428f85a85a913fe2287f33ef192/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" />
+
 
 ### Talking about Personal Stuffs:
 
